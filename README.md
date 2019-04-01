@@ -1,0 +1,1 @@
+# analidor_lexico
