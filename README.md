@@ -1,1 +1,1 @@
-# analidor_lexico
+# analisador_lexico
